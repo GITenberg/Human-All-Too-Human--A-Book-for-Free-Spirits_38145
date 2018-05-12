@@ -33,6 +33,8 @@ description: "Human, All Too Human: A Book for Free Spirits (German: Menschliche
   \ Method. Nietzsche later republished all three parts as a two-volume edition in\
   \ 1886, adding a preface to each volume, and removing the Descartes quote as well\
   \ as the dedication to Voltaire.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38145#Human-All-Too-Human--A-Book-for-Free-Spirits
 gutenberg_issued: '2011-11-26'
 gutenberg_type: Text
 identifiers:
